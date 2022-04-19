@@ -1,0 +1,30 @@
+{
+  "name": "verbose-journey",
+  "version": "0.0.1",
+  "description": "Description coming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beig/verbose-journey.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beig/verbose-journey/issues"
+  },
+  "homepage": "https://github.com/beig/verbose-journey#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "eslint": "^8.13.0",
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.6.3"
+  }
+}
