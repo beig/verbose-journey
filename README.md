@@ -6,3 +6,7 @@ Description coming soon
 `npm install`
 
 `npm run dev`
+
+
+### Creating a new map
+Tileset -> [X] Embed in map
